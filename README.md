@@ -1,2 +1,2 @@
-# BinaryCalculator (Integer Input)
-I am also learning how to use github, so I have decided to create two different branches. One where the binary calculator function takes the input as a string and a branch where the binary calculator takes the input in as an integer. This is the Integer-Input branch
+# BinaryCalculator
+ On the night of December 24th I decided to create a binary calculator for fun. This repository will track my code's progress and anything else the comes out of it
