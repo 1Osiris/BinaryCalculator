@@ -23,3 +23,4 @@ print(binaryCalc("1100100"))
 print(binaryCalc("1100101010110"))
 print(binaryCalc("123456"))
 print(binaryCalc("abcd"))
+#extra comment 
